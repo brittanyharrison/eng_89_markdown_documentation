@@ -2,10 +2,10 @@
 #### #Example text
 #### headings  go up to six 
 
-#Dash sign is used to create a bullet point
+# Dash sign is used to create a bullet point
 - (-)Example text 
 
-##To make Bold
+## To make Bold
 - (**)**bold**(**)
 
 ## To create a block of code
@@ -16,7 +16,7 @@
 # To create single line of code 
 `(')single line of code(')`
 
-#To add a link or url 
+# To add a link or url 
 [Linkedin](https://www.linkedin.com/in/brittanykharrison/)
 - ([lable]) (url)
 
